@@ -1,0 +1,57 @@
+﻿Country,Cause of Death,Count
+USA,Heart Disease,334634
+USA,Cancer,22654
+USA,Accidents,151346
+USA,Stroke,126854
+USA,Diabetes,1134633
+USA,Respiratory Diseases,8257
+USA,Alzheimer's Disease,66572
+USA,HIV/AIDS,52674
+USA,Suicide,42575
+USA,Liver Disease,39764
+USA,Tuberculosis,22375
+USA,Hypertension,12457
+USA,Malaria,8865
+USA,Other,6234
+Kazakhstan,Heart Disease,49568
+Kazakhstan,Stroke,32457
+Kazakhstan,Cancer,25245
+Kazakhstan,Accidents,29876
+Kazakhstan,Diabetes,15234
+Kazakhstan,Respiratory Diseases,12344
+Kazakhstan,Alzheimer's Disease,8987
+Kazakhstan,HIV/AIDS,7387
+Kazakhstan,Suicide,6275
+Kazakhstan,Liver Disease,5288
+Kazakhstan,Tuberculosis,4944
+Kazakhstan,Hypertension,3943
+Kazakhstan,Malaria,2578
+Kazakhstan,Other,1375
+Russia,Heart Disease,52890
+Russia,Cancer,45548
+Russia,Accidents,32345
+Russia,Stroke,25764
+Russia,Diabetes,22575
+Russia,Respiratory Diseases,13458
+Russia,Alzheimer's Disease,10895
+Russia,HIV/AIDS,8098
+Russia,Suicide,6234
+Russia,Liver Disease,5345
+Russia,Tuberculosis,4765
+Russia,Hypertension,3234
+Russia,Malaria,2987
+Russia,Other,1245
+Africa,Heart Disease,265867
+Africa,Stroke,151345
+Africa,Respiratory Diseases,173562
+Africa,Cancer,98096
+Africa,Accidents,82346
+Africa,Diabetes,70796
+Africa,Alzheimer's Disease,57345
+Africa,HIV/AIDS,47983
+Africa,Suicide,32390
+Africa,Liver Disease,22457
+Africa,Tuberculosis,19876
+Africa,Hypertension,5765
+Africa,Malaria,4245
+Africa,Other,3987
